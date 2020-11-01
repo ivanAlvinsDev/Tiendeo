@@ -1,0 +1,23 @@
+{
+  "name": "tiendeo",
+  "version": "1.0.0",
+  "description": "Tiendeo test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-sass -watch -o css scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanAlvinsDev/Tiendeo.git"
+  },
+  "author": "Ivan Alvins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanAlvinsDev/Tiendeo/issues"
+  },
+  "homepage": "https://github.com/ivanAlvinsDev/Tiendeo#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

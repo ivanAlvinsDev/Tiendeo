@@ -1,0 +1,36 @@
+//COLORS
+$color-primary: #259be8;
+$color-secondary: #fe8093;
+$color-white: white;
+$color-light-gray: #f7f7f7;
+$color-dark-gray: #4a4a4a;
+$color-warning: red;
+
+
+//FONTS
+$font-color: #394459;
+$font-family-primary: 'Roboto';
+
+//FONT-SIZE
+//PLEASE NOTE: WE USE A 4PX SCALE FOR FONT-SIZE
+$font-size-base: 16px;
+$font-size-large: 20px;
+$font-size-small: 14px;
+
+$font-size-h1: 36px;
+$font-size-h2: 32px;
+$font-size-h3: 28px;
+
+//RHYTHM
+// PLEASE NOTE: WE USE A 8PX SCALE FOR SPACING
+$spacing-4: 0.25rem;
+$spacing-8: 0.5rem;
+$spacing-16: 1rem;
+$spacing-24: 1.5rem;
+$spacing-32: 2rem;
+$spacing-40: 2.5rem;
+
+//Media-queries
+$mobile: "(max-width: 767px)";
+$tablet: "(min-width: 768px) and (max-width: 1023px)";
+$desktop: "(min-width: 1024px)";
